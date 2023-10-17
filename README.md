@@ -30,11 +30,29 @@ A basic Input comes with three default actions(Move,Fire,Look).Later we will add
 
 <img width="841" alt="Part2_3" src="https://github.com/MegretMendez/PlayerMovementEx05/assets/142510070/b6aacc0e-d83c-464b-a086-a85d741eccf7">
 
-Part 3. Adding Actions to Input Map
+Part 3A. Adding Jump Action to Input Map
+
+
 Description: We only need to add FastMove and Jump. Adding a Jump Action is simple, press the "+" in Actions and rename it as Jump, set the action as a Button type. Then in the Biding of your Action, set the path to the "Space[Keyboard]. Lastly, in the Binding Properties check the "Keyboard&Mouse" box.
 
 <img width="841" alt="Part3_1" src="https://github.com/MegretMendez/PlayerMovementEx05/assets/142510070/26bbe02b-5839-4b0f-8c54-213f72266d28">
 <img width="841" alt="Part3_2" src="https://github.com/MegretMendez/PlayerMovementEx05/assets/142510070/4b34fc55-6a05-4439-a954-d62a5dfc040e">
 <img width="940" alt="Part3_3" src="https://github.com/MegretMendez/PlayerMovementEx05/assets/142510070/8cfee01d-3a2d-42fe-97f0-13eec687b8a4">
 <img width="842" alt="Part3_4" src="https://github.com/MegretMendez/PlayerMovementEx05/assets/142510070/b5d74b26-a3fc-447b-8894-02f51c091497">
+
+Part 3B. Adding FastMove Action to InputMap
+
+Since the FastMove Action requires two buttons,("Shift" and A/D/W/S/Left Arrow,Right Arrow,Up Arrow,Down Arrow) these actions require two Bindings. 
+
+<img width="842" alt="Part3B_1" src="https://github.com/MegretMendez/PlayerMovementEx05/assets/142510070/6e1c3fa5-0d7f-4f62-b054-b0fa07fadb2f">
+
+Description: First Create a new Action as shown in Part 3A. Then besides the new action, hit the "+" and select "Add Binding with One Modifier". Remember to set your action as "Button".
+
+<img width="844" alt="Part3B_2" src="https://github.com/MegretMendez/PlayerMovementEx05/assets/142510070/d1e37fb7-0250-4a93-b75d-05146e139513">
+
+
+Now that we have created an Action, set the path of the first modifier as the "Shift" button and check the "Keyboard&Mouse" box.
+
+<img width="841" alt="Part3B_3" src="https://github.com/MegretMendez/PlayerMovementEx05/assets/142510070/f37daf64-18c9-44d0-8dbf-1f8080a3d4f7">
+
 
