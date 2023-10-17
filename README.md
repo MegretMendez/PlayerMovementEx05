@@ -30,3 +30,11 @@ A basic Input comes with three default actions(Move,Fire,Look).Later we will add
 
 <img width="841" alt="Part2_3" src="https://github.com/MegretMendez/PlayerMovementEx05/assets/142510070/b6aacc0e-d83c-464b-a086-a85d741eccf7">
 
+Part 3. Adding Actions to Input Map
+Description: We only need to add FastMove and Jump. Adding a Jump Action is simple, press the "+" in Actions and rename it as Jump, set the action as a Button type. Then in the Biding of your Action, set the path to the "Space[Keyboard]. Lastly, in the Binding Properties check the "Keyboard&Mouse" box.
+
+<img width="841" alt="Part3_1" src="https://github.com/MegretMendez/PlayerMovementEx05/assets/142510070/26bbe02b-5839-4b0f-8c54-213f72266d28">
+<img width="841" alt="Part3_2" src="https://github.com/MegretMendez/PlayerMovementEx05/assets/142510070/4b34fc55-6a05-4439-a954-d62a5dfc040e">
+<img width="940" alt="Part3_3" src="https://github.com/MegretMendez/PlayerMovementEx05/assets/142510070/b9386933-489f-4f1e-b673-47e5c40<img width="842" alt="Part3_4" src="https://github.com/MegretMendez/PlayerMovementEx05/assets/142510070/13326365-aed2-4180-b33d-bebe23aebcd1">
+c7bcc">
+
