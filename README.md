@@ -1,4 +1,4 @@
-<img width="1436" alt="Part2_1" src="https://github.com/MegretMendez/PlayerMovementEx05/assets/142510070/1f79ffaf-c773-4f56-84a7-88a62aa41914"># PlayerMovementEx05
+#PlayerMovementEx05
 Using Unity's Input System we will add additional basic movements do 3D characters, such as Jump, Double Jump and FastMovement
 
 Part 1A. Download Input System
