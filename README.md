@@ -35,6 +35,6 @@ Description: We only need to add FastMove and Jump. Adding a Jump Action is simp
 
 <img width="841" alt="Part3_1" src="https://github.com/MegretMendez/PlayerMovementEx05/assets/142510070/26bbe02b-5839-4b0f-8c54-213f72266d28">
 <img width="841" alt="Part3_2" src="https://github.com/MegretMendez/PlayerMovementEx05/assets/142510070/4b34fc55-6a05-4439-a954-d62a5dfc040e">
-<img width="940" alt="Part3_3" src="https://github.com/MegretMendez/PlayerMovementEx05/assets/142510070/b9386933-489f-4f1e-b673-47e5c40<img width="842" alt="Part3_4" src="https://github.com/MegretMendez/PlayerMovementEx05/assets/142510070/13326365-aed2-4180-b33d-bebe23aebcd1">
-c7bcc">
+<img width="940" alt="Part3_3" src="https://github.com/MegretMendez/PlayerMovementEx05/assets/142510070/8cfee01d-3a2d-42fe-97f0-13eec687b8a4">
+<img width="842" alt="Part3_4" src="https://github.com/MegretMendez/PlayerMovementEx05/assets/142510070/b5d74b26-a3fc-447b-8894-02f51c091497">
 
