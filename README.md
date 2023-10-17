@@ -1,3 +1,4 @@
+
 #PlayerMovementEx05
 Using Unity's Input System we will add additional basic movements do 3D characters, such as Jump, Double Jump and FastMovement
 
@@ -54,5 +55,9 @@ Description: First Create a new Action as shown in Part 3A. Then besides the new
 Now that we have created an Action, set the path of the first modifier as the "Shift" button and check the "Keyboard&Mouse" box.
 
 <img width="841" alt="Part3B_3" src="https://github.com/MegretMendez/PlayerMovementEx05/assets/142510070/f37daf64-18c9-44d0-8dbf-1f8080a3d4f7">
+
+Lastly, in the second Binding, set the path to "A[Keyboard]" and check the "Keyboard&Mouse" box. As a result we have created an action for moving left fast. Repeat Part3A and Part3B until you have covered all cases for movement.
+
+<img width="848" alt="Part3B_4" src="https://github.com/MegretMendez/PlayerMovementEx05/assets/142510070/d667135e-a04c-4040-86a2-5d05a2820378">
 
 
