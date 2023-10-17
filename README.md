@@ -60,4 +60,5 @@ Lastly, in the second Binding, set the path to "A[Keyboard]" and check the "Keyb
 
 <img width="848" alt="Part3B_4" src="https://github.com/MegretMendez/PlayerMovementEx05/assets/142510070/d667135e-a04c-4040-86a2-5d05a2820378">
 
+To see how we implemented the Input Map with code, see the files we uploaded in this Repository. The code is explained through comments for a more intuitive experience.
 
