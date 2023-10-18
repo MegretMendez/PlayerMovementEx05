@@ -62,3 +62,6 @@ Lastly, in the second Binding, set the path to "A[Keyboard]" and check the "Keyb
 
 To see how we implemented the Input Map with code, see the files we uploaded in this Repository. The code is explained through comments for a more intuitive experience.
 
+Results:
+https://drive.google.com/file/d/1ivKIo7njGBkll5G6YfJ8ug8WLZAQJBCA/view?usp=share_link
+
