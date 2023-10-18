@@ -27,7 +27,7 @@ Part 2. Creating Input Map
 
 Description: To create an Input Map, go to your "Shooter/Player" prefab's Inspector panel. In this panel select Add Component->Player Input->Create Actions. Then name your new Input Map as you wish and save it in the Scripts Folder inside the Assets Folder. 
 
-A basic Input comes with three default actions(Move,Fire,Look).Later we will add Jumping, Double Jumping and Fast Movements and implement it with code. This is how your Input Map should like:
+A basic Input comes with three default actions(Move,Fire,Look).Later we will add Jumping, Double Jumping and Fast Movements and implement it with code. This is how your Input Map should look like:
 
 <img width="841" alt="Part2_3" src="https://github.com/MegretMendez/PlayerMovementEx05/assets/142510070/b6aacc0e-d83c-464b-a086-a85d741eccf7">
 
