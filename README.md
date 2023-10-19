@@ -1,6 +1,6 @@
 
 #PlayerMovementEx05
-Using Unity's Input System we will add additional basic movements do 3D characters, such as Jump, Double Jump and FastMovement
+Using Unity's Input System we will add additional basic movements to 3D characters, such as Jump, Double Jump and FastMovement
 
 Part 1A. Download Input System
 
